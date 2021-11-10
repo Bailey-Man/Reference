@@ -2,8 +2,6 @@
 
 ## + Header image
 
-## + URL to .io/references
-
 # What is this?
 
 This is a collection of references and cheat sheets for anyone in need.

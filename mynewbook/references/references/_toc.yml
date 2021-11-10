@@ -4,8 +4,85 @@
 format: jb-article
 root: intro
 sections:
-- file: content
+- file: languages
+  sections: 
+  - file: python/python
+    sections:
+    - file: python/python-basics
+    - file: python/python-packages
+    - file: python/python-resources
+  - file: r/r
+    sections:
+    - file: r/r-basics
+    - file: r/r-packages
+    - file: r/r-resources
+  - file: matlab/matlab
+    sections:
+    - file: matlab-basics
+    - file: matlab-packages
+    - file: matlab-resources
+  - file: c/c
+    sections:
+    - file: c/c-basics
+    - file: c/c-packages
+    - file: c/c-resources
+  - file: js/js
+    sections:
+    - file: js/js-basics
+    - file: js/js-packages
+    - file: js/js-resources
+  - file: html/html
+    sections:
+    - file: html/html-basics
+    - file: html/html-packages
+    - file: html/html-resources
+  - file: css/css
+    sections:
+    - file: css/css-basics
+    - file: css/css-packages
+    - file: css/css-resources
+  - file: markdown/markdown
+    sections:
+    - file: markdown/markdown-basics
+    - file: markdown/markdown-resources
+- file: tools
   sections:
-  - file: markdown
-  - file: notebooks
-  - file: test/temp.md
+  - file: machinelearning
+    sections:
+    - file: deeplearning
+    - file: sklearn
+    - file: tensorflow
+    - file: keras
+  - file: visualization
+    sections:
+    - file: tableau
+  - file: hosting
+    sections:
+    - file: flask
+    - file: django
+    - file: heroku
+  - file: gis
+    sections:
+    - file: geopandas
+    - file: arcgis
+- file: guides
+  sections:
+  - file: personal
+    sections:
+    - file: resume
+    - file: cv
+    - file: projects
+    - file: website
+  - file: ucsd
+    sections:
+    - file: undergradresearch
+    - file: clubs
+  - file: nasa
+    sections:
+    - file: opportunities
+    - file: usefulskills
+  - file: gradschool
+    sections:
+    - file: research
+    - file: clubs
+    - file: applications
