@@ -4,7 +4,7 @@
 format: jb-article
 root: intro
 sections:
-- file: languages
+- file: languages/languages
   sections: 
   - file: python/python
     sections:
@@ -18,9 +18,9 @@ sections:
     - file: r/r-resources
   - file: matlab/matlab
     sections:
-    - file: matlab-basics
-    - file: matlab-packages
-    - file: matlab-resources
+    - file: matlab/matlab-basics
+    - file: matlab/matlab-packages
+    - file: matlab/matlab-resources
   - file: c/c
     sections:
     - file: c/c-basics
@@ -45,44 +45,43 @@ sections:
     sections:
     - file: markdown/markdown-basics
     - file: markdown/markdown-resources
-- file: tools
+- file: tools/tools
   sections:
-  - file: machinelearning
+  - file: tools/machinelearning/machinelearning
     sections:
-    - file: deeplearning
-    - file: sklearn
-    - file: tensorflow
-    - file: keras
-  - file: visualization
+    - file: tools/machinelearning/deeplearning
+    - file: tools/machinelearning/sklearn
+    - file: tools/machinelearning/tensorflow
+    - file: tools/machinelearning/keras
+  - file: tools/visualization/visualization
     sections:
-    - file: tableau
-  - file: hosting
+    - file: tools/visualization/tableau
+  - file: tools/hosting/hosting
     sections:
-    - file: flask
-    - file: django
-    - file: heroku
-  - file: gis
+    - file: tools/hosting/flask
+    - file: tools/hosting/django
+    - file: tools/hosting/heroku
+  - file: tools/gis/gis
     sections:
-    - file: geopandas
-    - file: arcgis
-- file: guides
+    - file: tools/gis/geopandas
+    - file: tools/gis/arcgis
+- file: guides/guides
   sections:
-  - file: personal
+  - file: guides/personal/personal
     sections:
-    - file: resume
-    - file: cv
-    - file: projects
-    - file: website
-  - file: ucsd
+    - file: guides/personal/resume
+    - file: guides/personal/cv
+    - file: guides/personal/projects
+    - file: guides/personal/website
+  - file: guides/ucsd/ucsd
     sections:
-    - file: undergradresearch
-    - file: clubs
-  - file: nasa
+    - file: guides/ucsd/undergradresearch
+    - file: guides/ucsd/clubs
+  - file: guides/nasa/nasa
     sections:
-    - file: opportunities
-    - file: usefulskills
-  - file: gradschool
+    - file: guides/nasa/opportunities
+    - file: guides/nasa/usefulskills
+  - file: guides/gradschool/gradschool
     sections:
-    - file: research
-    - file: clubs
-    - file: applications
+    - file: guides/gradschool/research
+    - file: guides/gradschool/applications

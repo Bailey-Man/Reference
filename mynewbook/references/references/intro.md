@@ -1,6 +1,4 @@
-# Welcome to my humble abode
-
-## + Header image
+# Table of Contents
 
 # What is this?
 
@@ -14,46 +12,24 @@ Development in progress! Email me at baileyman99@gmail.com if you have any quest
 
 ## Programming Languages
 <details>
-<summary>View cheatsheets</summary>
+<summary>View Pages</summary>
 
-#### Command line interface
+#### Data Science
+- [Python](languages/python/python.md)
+- [R](languages/r/r.md)
+- [MATLAB](languages/matlab/matlab.md)
+- []()
+- []()
 
-- [Bash](languages/bash.sh)
+#### Web Development
+- [HTML](languages/html/html.md)
+- [CSS](langauges/css/css.md)
+- [JavaScript](langauges/javascript/javascript.md)
+- []()
 
-#### Imperative
 
-- [C](languages/C.txt)
-- [C#](languages/C%23.txt)
-- [Go](languages/golang.md)
-- [Java](languages/java.md)
-- [PHP](languages/php.php)
-- [Python](languages/python.md)
-
-#### Functional
-
-- [JavaScript](languages/javascript.js)
-
-</details>
-
-## Tools
-<details>
-<summary>View cheatsheets</summary>
-
-#### Command line interface
-
-- [Bash](languages/bash.sh)
-
-#### Imperative
-
-- [C](languages/C.txt)
-- [C#](languages/C%23.txt)
-- [Go](languages/golang.md)
-- [Java](languages/java.md)
-- [PHP](languages/php.php)
-- [Python](languages/python.md)
-
-#### Functional
-
-- [JavaScript](languages/javascript.js)
+#### Other
+- []()
+- []()
 
 </details>
